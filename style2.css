@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,700&display=swap');
+header{
+    
+    height: 29rem;
+}
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2%;
+
+}
+/* .pic{
+} */
+.cont{
+    padding: 20px;
+    
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 50px;
+}
